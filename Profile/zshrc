@@ -101,8 +101,8 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-alias zshconfig="core ~/.zshrc"
-alias ohmyzsh="core ~/.oh-my-zsh"
+alias zshconfig="code ~/.zshrc"
+alias ohmyzsh="code ~/.oh-my-zsh"
 alias refpro="cp ~/Documents/Development/OSX\ Scripts/Profile/zshrc ~/.zshrc"
 alias arcpro="cp ~/.zshrc ~/Documents/Development/OSX\ Scripts/Profile/zshrc"
 alias rldpro="source ~/.zshrc"
